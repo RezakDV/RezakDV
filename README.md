@@ -1,7 +1,9 @@
 # Привет, меня зовут Денис!
 
-## My CV 
+### 📝 My CV 
 [Link to my CV](https://drive.google.com/file/d/1cRc4aM74ChzuhUMwD15a_VtlQoVRwwGe/view?usp=sharing)
+
+---
 
 ### 👋 Контакты
 
@@ -13,6 +15,8 @@
       <img src="https://github.com/RezakDV/RezakDV/blob/main/assets/free-icon-telegram-2111646.png" width="50" height="50" alt="Telegram" />
     </a>
   </div>
+
+---
 
 ### 🗂️ Тестовая документация:
 
@@ -35,6 +39,7 @@
   <img src="https://github.com/RezakDV/RezakDV/blob/main/assets/chrome-dev.512x512.png" title="DevTools" alt="Devtools" width="50" height="50"/>&nbsp
   <img src="https://github.com/RezakDV/RezakDV/blob/main/assets/devicon--postman.png" title="Postman" alt="Postman" width="50" height="50"/>&nbsp
   <img src="https://github.com/RezakDV/RezakDV/blob/main/assets/logos--swagger.png" title="Swagger" alt="Swagger" width="50" height="50"/>&nbsp
+   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp
 </div>
 
 ---
@@ -43,5 +48,3 @@
 <div>
   <img src="https://github.com/RezakDV/RezakDV/blob/main/assets/microsoft-sql-server-logo-svgrepo-com.png" title="MS SQL" alt="MS SQL" width="50" height="50"/>&nbsp
   </div>
-
-Follow me 
