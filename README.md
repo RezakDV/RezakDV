@@ -1,8 +1,7 @@
-Header
+# Привет, меня зовут Денис!
 
-About me
-
-##My CV 
+## My CV 
+[Link to my CV](https://drive.google.com/file/d/1cRc4aM74ChzuhUMwD15a_VtlQoVRwwGe/view?usp=sharing)
 
 ### Languages and Tools
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
@@ -22,6 +21,11 @@ About me
   <img src="https://github.com/RezakDV/RezakDV/blob/main/assets/simple-icons--testrail.png" title="Testrail" alt="Tetstrail" width="50" height="50"/>&nbsp
 </div>
 
+- [Checklists](https://github.com/RezakDV/Checklists)
+- [Test-Cases](https://github.com/RezakDV/Test-cases)
+- [Bug-Reports](https://github.com/RezakDV/Bug-reports)
+- [Postman Collections](https://github.com/RezakDV/Postman-Collections)
+
 ---
 
 ### ⚙️ Тестирование веб-приложений
@@ -32,6 +36,7 @@ About me
   <img src="https://github.com/RezakDV/RezakDV/blob/main/assets/logos--swagger.png" title="Swagger" alt="Swagger" width="50" height="50"/>&nbsp
 </div>
 
+---
 
 ### 🛢️ Тестирование баз данных
 <div>
