@@ -1,7 +1,7 @@
 # Привет, меня зовут Денис!
 
 ### 📝 My CV 
-[Link to my CV](https://drive.google.com/file/d/1cRc4aM74ChzuhUMwD15a_VtlQoVRwwGe/view?usp=sharing)
+[Link to my CV](https://drive.google.com/drive/folders/1UOVPLTGtxLWgTfLaJqsy9iQeF6tuoz62?usp=sharing)
 
 ---
 
